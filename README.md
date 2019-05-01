@@ -22,6 +22,8 @@ git clone --
 * config .env file
 * php artisan migrate
 * php artisan serve
+
+
 ![image](https://github.com/Rahajustone/MiniHr/blob/master/Untitled.png)
 
 ## License
