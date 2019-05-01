@@ -137,6 +137,7 @@ class EmployerController extends Controller
         $result = $this->employees->findOrFail($id);
 
         if ($result->delete()) {
+            $result->positions()->detach();
 
             Alert::success('Employee deleted successfully.', '');
             return redirect()->route('employee.index');
