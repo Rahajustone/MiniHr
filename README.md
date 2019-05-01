@@ -9,14 +9,6 @@ A simple system to controller the employee fo your company.
 * [Department Controller]
 * [Position Controller]
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-git clone --
-```
-
 ### Installing
 * git clone 
 * config .env file
