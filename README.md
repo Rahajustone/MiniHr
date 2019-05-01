@@ -4,7 +4,7 @@
 ## A simple demo Mini HR system
 A simple system to controller the employee fo your company.
 
-###This system to have the following functions:
+### This system to have the following functions:
 * [Employee Controller]
 * [Department Controller]
 * [Position Controller]
