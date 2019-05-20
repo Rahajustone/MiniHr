@@ -2,15 +2,16 @@
 
 
 ## A simple demo Mini HR system
-A simple system to controller the employee fo your company.
+A simple system to controller the employees for your company.
 
-### This system to have the following functions:
+### This system have the following functions:
 * [Employee Controller]
 * [Department Controller]
 * [Position Controller]
 
 ### Installing
 * git clone 
+* composer install
 * config .env file
 * php artisan migrate
 * php artisan serve
